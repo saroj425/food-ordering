@@ -1,0 +1,13 @@
+.btn-cart{
+    position: relative;
+}
+.btn-cart span {
+    position: absolute;
+    right: 0;
+    top: -10px;
+}
+.sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
